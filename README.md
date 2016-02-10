@@ -1,9 +1,10 @@
 #System Setup/Portfolio
 
 ##Live URL
+http://p1.adityak.me/
 
 ##Description
-Introducing myself and embedding links for projects 2,3 and 4
+My name, photograph and placeholder links for projects 2,3 and 4
 (Github and live urls)
 
 ##Demo
